@@ -4,7 +4,8 @@ package za.ac.cput;
  * Honest Mpungu!
  *
  */
-public class App 
+public class
+App
 {
     public static void main( String[] args )
     {
