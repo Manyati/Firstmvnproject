@@ -1,13 +1,14 @@
 package za.ac.cput;
 
 /**
- * Hello world!
+ * @author anongxa
+ * BookTest.java
  *
  */
 public class App 
 {
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
+    public static void assertEquals( Book expected, Book actual ) {
+        assertTrue(expected.getTitle( ).equals( actual.getTitle( ) )
+                && expected.getAuthor( ).equals( actual.getAuthor( ) ));
     }
 }
