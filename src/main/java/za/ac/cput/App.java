@@ -1,7 +1,7 @@
 package za.ac.cput;
 
 /**
- * Hello world!
+ * Honest Mpungu!
  *
  */
 public class App 
