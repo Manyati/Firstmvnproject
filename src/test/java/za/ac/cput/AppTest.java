@@ -1,20 +1,33 @@
 package za.ac.cput;
 
-import static org.junit.Assert.assertTrue;
-
-import org.junit.Test;
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
 
 /**
- * Unit test for simple App.
+ * Honest Mpungu!
+ * Student Number 215072081
+ * Part-Time group
  */
-public class AppTest 
-{
-    /**
-     * Rigorous Test :-)
-     */
+public class AppTest {
+
+    private Assertions Assert;
+
     @Test
-    public void shouldAnswerWithTrue()
-    {
-        assertTrue( true );
+    public void testNumber() {
+        GameBuzz gameBuzz = new GameBuzz();
+        
+        int number =2;
+         String numberReturned = gameBuzz.play(number);
+         Assert.assertEquals("2",numberReturned);
+        
     }
+    
+    
+    
+    
+    
+    
+    
+    
 }
+
