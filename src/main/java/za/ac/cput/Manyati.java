@@ -1,13 +1,18 @@
 package za.ac.cput;
 
 /**
- * Honest Mpungu!
+ * @Author Munyaradzi Manyati
+ * @std 215211855
+ * uhuu
+ *
+ * Maven Manyati 2021
  *
  */
-public class App 
+public class Manyati
 {
     public static void main( String[] args )
     {
+
         System.out.println( "Hello World!" );
     }
 }
