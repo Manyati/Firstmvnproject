@@ -5,10 +5,10 @@ package za.ac.cput;
  * @std 215211855
  * uhuu
  *
- * Maven App 2021
+ * Maven Manyati 2021
  *
  */
-public class App 
+public class Manyati
 {
     public static void main( String[] args )
     {
