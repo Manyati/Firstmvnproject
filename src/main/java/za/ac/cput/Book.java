@@ -1,5 +1,12 @@
 package za.ac.cput;
 
+<<<<<<< HEAD
+=======
+/** @author anongxa
+ *  204513723
+ *  Group:Part Time
+ */
+>>>>>>> 204513723
 public class Book {
 
     private String title = "";
@@ -14,4 +21,8 @@ public class Book {
     public String getAuthor( ) { return author; }
 
 }
+<<<<<<< HEAD
 }
+=======
+
+>>>>>>> 204513723
