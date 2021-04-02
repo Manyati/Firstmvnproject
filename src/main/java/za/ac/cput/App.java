@@ -1,13 +1,15 @@
 package za.ac.cput;
 
 /**
- * Hello world!
+ * @Author Munyaradzi Manyati
+ * Maven App 2021
  *
  */
 public class App 
 {
     public static void main( String[] args )
     {
+
         System.out.println( "Hello World!" );
     }
 }
