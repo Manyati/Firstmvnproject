@@ -6,6 +6,7 @@ import org.junit.Test;
 
 /**
  * @Author Munyaradzi Manyati
+ * @std 215211855
  * Unit test for simple App.
  */
 public class AppTest 
