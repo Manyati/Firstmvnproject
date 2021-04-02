@@ -7,6 +7,7 @@ import org.junit.jupiter.api.Test;
  * Honest Mpungu!
  * Student Number 215072081
  * Part-Time group
+ * Group Assignment
  */
 public class AppTest {
 
