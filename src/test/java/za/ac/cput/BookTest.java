@@ -1,13 +1,12 @@
 package za.ac.cput;
 
-<<<<<<< HEAD
-=======
+
 /** @author anongxa
  *  204513723
  *  Group:PT
  */
 
->>>>>>> 204513723
+
 import static org.junit.jupiter.api.Assertions.*;
 
 public class BookTest extends TestCase {
