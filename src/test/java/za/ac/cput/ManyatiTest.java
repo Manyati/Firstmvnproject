@@ -37,7 +37,7 @@ public class ManyatiTest {
         new Timeout().test();
     }
 
-    public class Timeout {
+    public static class Timeout {
 
         public void test() throws InterruptedException {
             TimeUnit.SECONDS.sleep(60);
