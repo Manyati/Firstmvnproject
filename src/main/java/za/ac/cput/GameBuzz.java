@@ -4,7 +4,7 @@ package za.ac.cput;
  * Honest Mpungu!
  * Student Number 215072081
  * Part-Time group
- * Group AssignmentG
+ * Group Assignment1
  */
 
 public class GameBuzz {
