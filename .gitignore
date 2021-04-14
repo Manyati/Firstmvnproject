@@ -1,15 +1,7 @@
-/**
- *
-
 #files to ignore
 #IntelliJ specifics
 
-Firstmvnproject.iml
+*.iml
 
 /.idea/
 *.iml
-
- Honest Mpungu!
- * Student Number 215072081
- * Part-Time group
- */
